@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stonepuzzle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stonepuzzle_jar</output-path>
+    <root id="archive" name="stonepuzzle.jar">
+      <element id="module-output" name="stonepuzzle" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../javafx/javafx/lib/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

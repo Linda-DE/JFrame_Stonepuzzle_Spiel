@@ -1,0 +1,46 @@
+
+
+        JLabel jl6 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl6.setBounds(150,190,100,100);
+        frame.getContentPane().add(jl6);
+
+        JLabel jl7 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl7.setBounds(250,190,100,100);
+        frame.getContentPane().add(jl7);
+
+        JLabel jl8 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl8.setBounds(350,190,100,100);
+        frame.getContentPane().add(jl8);
+
+        JLabel jl9 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl9.setBounds(50,290,100,100);
+        frame.getContentPane().add(jl9);
+
+        JLabel jl10 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl10.setBounds(150,290,100,100);
+        frame.getContentPane().add(jl10);
+
+        JLabel jl11 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl11.setBounds(250,290,100,100);
+        frame.getContentPane().add(jl11);
+
+        JLabel jl12 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl12.setBounds(350,290,100,100);
+        frame.getContentPane().add(jl12);
+
+        JLabel jl13 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl13.setBounds(50,390,100,100);
+        frame.getContentPane().add(jl13);
+
+        JLabel jl14 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl14.setBounds(150,390,100,100);
+        frame.getContentPane().add(jl14);
+
+        JLabel jl15 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl15.setBounds(250,390,100,100);
+        frame.getContentPane().add(jl15);
+
+        JLabel jl16 = new JLabel(new ImageIcon("D:\\image\\8.png"));
+        jl16.setBounds(350,390,100,100);
+        frame.getContentPane().add(jl16);
+        
